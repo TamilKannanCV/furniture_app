@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Classic Leather Arm Chair",
+            "price": 56,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim",
+            "imageUrl": "https: //intern-s3.s3.amazonaws.com/Item_1.png"
+        },
+        {
+            "id": 2,
+            "name": "Poppy Plastic Tub Chair",
+            "price": 68,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim",
+            "imageUrl": "https: //intern-s3.s3.amazonaws.com/Item_2.png"
+        },
+        {
+            "id": 3,
+            "name": "Bar Stool Chair",
+            "price": 39,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim",
+            "imageUrl": "https: //intern-s3.s3.amazonaws.com/Item_3.png"
+        }
+    ]
+}
